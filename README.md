@@ -4,6 +4,10 @@
 
 Verantwoord en presenteer je keuze voor een tech-stack.
 
+￼￼
+￼
+￼
+
 <!-- Haal bovenstaande tekst weg! -->
 
 
