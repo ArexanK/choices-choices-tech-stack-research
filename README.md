@@ -9,7 +9,7 @@ Contentful CMS & React Remix framework
 ￼
 ￼Inleiding:
 
-In de wereld van webontwikkeling veranderen technologieën voortdurend. Er zijn altijd nieuwe tools en systemen om te leren. Een van deze nieuwe combinaties is React Remix en Contentful CMS. Deze technologien worden ook op mijn stage gebruikt, daarom heb ik besloten om mijn onderzoek te richten op deze specifieke combinatie. Door dit te bestuderen, wil ik een diepgaand begrip ontwikkelen van hoe React Remix en Contentful CMS samenwerken. Dit is niet alleen handig voor mijn stage, maar het helpt me ook om mijn kennis direct toe te passen in de praktijk.
+Er zijn altijd nieuwe tools en systemen om te leren. Een van deze nieuwe combinaties is React Remix en Contentful CMS. Deze technologien worden ook op mijn stage gebruikt, daarom heb ik besloten om mijn onderzoek te richten op deze specifieke combinatie. Door dit te bestuderen, wil ik een diepgaand begrip ontwikkelen van hoe React Remix en Contentful CMS samenwerken. Dit is niet alleen handig voor mijn stage, maar het helpt me ook om mijn kennis direct toe te passen in de praktijk.
 
 Aanleiding:
 
